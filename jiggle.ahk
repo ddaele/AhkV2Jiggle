@@ -19,4 +19,3 @@ Loop
 		Click
 		}
 }
-;jijp
